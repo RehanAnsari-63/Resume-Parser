@@ -1,0 +1,17 @@
+Here’s a `requirements.txt` file for the project with all necessary packages:
+
+```
+pymupdf
+streamlit
+fastapi
+uvicorn
+```
+
+If you want to pin versions for stability, here’s a more specific example:
+
+```
+pymupdf==1.21.1
+streamlit==1.26.0
+fastapi==0.95.2
+uvicorn==0.22.0
+```
